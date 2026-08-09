@@ -1,7 +1,7 @@
-[calculator.html](https://github.com/user-attachments/files/30876921/calculator.html)
 
 
-<!DOCTYPE html>
+
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
